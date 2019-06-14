@@ -43,7 +43,7 @@ void cocktail(T *p, T siz, bool (*np)(int * , int *))
     int aux = 0;
     bool sorted = true;
     int vuel;
-    if(false)
+    /*if(false)
     {
         startr = p;
         en =  p + (siz - 1);
@@ -91,8 +91,8 @@ void cocktail(T *p, T siz, bool (*np)(int * , int *))
                 }
             }
         }
-    }
-    else if(true)
+    }*/
+    if(true)
     {
         startr = p;
         cout << *startr << '\n';
